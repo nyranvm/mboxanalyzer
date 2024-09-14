@@ -1,4 +1,4 @@
-# MBox Analyzer - Who's Spamming Yout Email? Now you know!
+# MBox Analyzer - Who's spamming your Email? Now you know!
 
 ## Overview
 
@@ -103,6 +103,9 @@ The application is launched by calling the `setup_gui()` function, which sets up
 3. After completion, check your directory for CSV files that contain:
    - **Email Address Frequency** (`*_email.csv`)
    - **Domain Frequency** (`*_domain.csv`)
+
+## Future Plan
+Automatically create a text that you can copy to Email search bar so you don't need copy manually - easier cleanup! 
 
 ## License
 
