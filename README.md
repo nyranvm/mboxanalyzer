@@ -105,7 +105,7 @@ The application is launched by calling the `setup_gui()` function, which sets up
    - **Domain Frequency** (`*_domain.csv`)
 
 ## Future Plan
-Automatically create a text that you can copy to Email search bar so you don't need copy manually - easier cleanup! 
+Automatically create a text that you can copy to Email search bar so you don't need to copy manually - easier cleanup! 
 
 ## License
 
