@@ -21,7 +21,7 @@ This tool can be used to gather insights into the most frequent email senders an
 
 ## Installation
 
-No specific installation is required for the libraries since they are all part of Python's standard library. Just ensure you have Python 3 installed on your machine.
+No specific installation is required for the libraries since they are all part of Python's standard library. Just ensure you have Python 3 installed on your machine. Or, just run the .exe!
 
 ## Usage
 
