@@ -1,4 +1,4 @@
-# Email Analyzer - README
+# MBox Analyzer - Who's Spamming Yout Email? Now you know!
 
 ## Overview
 
